@@ -1,5 +1,5 @@
 <header class="main-header">
-  <nav class="navbar navbar-static-top"  style="background-color:#1A1A1D; color:black;">
+  <nav class="navbar navbar-static-top"  style="background-color:#C3073F; color:black;">
     <div class="container">
       <div class="navbar-header">
         <a href="index.php" class="navbar-brand"><b>Bionry</b></a>
