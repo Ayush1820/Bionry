@@ -3,6 +3,6 @@
       <div class="pull-right hidden-xs">
         <b>All rights reserved</b>
       </div>
-      <strong>Copyright &copy; 2023 Author <a href="https://freeprojectscodes.com/">Bionry Developers</a></strong>
+      <strong>Copyright &copy; 2023 Brought To You By Bionry</strong>
     </div>
 </footer>
