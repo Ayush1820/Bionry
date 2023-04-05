@@ -3,8 +3,8 @@ Username: admin@admin.com
 Password: password
 
 **_ USER LOGIN _**
-Username: darkseid@gmail.com
-Password: freeprojectscodes.com
+Username: user@gmail.com
+Password: user
 
 **_ Bionry won't work if DB name is not "ecomm" _** and import the sql file to run.
 
