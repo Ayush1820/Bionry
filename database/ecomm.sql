@@ -176,8 +176,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `password`, `type`, `firstname`, `lastname`, `address`, `contact_info`, `photo`, `status`, `activate_code`, `reset_code`, `created_on`) VALUES
-(1, 'admin@admin.com', '$2y$10$0SHFfoWzz8WZpdu9Qw//E.tWamILbiNCX7bqhy3od0gvK5.kSJ8N2', 1, 'Free Projects', 'Codes', '', '', 'favicon.png', 1, '', '', '2018-05-01'),
-(13, 'darkseid@gmail.com', '$2y$10$gr609UDuVtyEw/bbj5PGj.2Qm1keUHs086x87iXHdQKvDpAW.Yv7m', 0, 'darkseid', 'newgods', 'NYC', '3261114555', 'staysafe.png', 1, '', '', '2022-09-02');
+(1, 'admin@admin.com', '$2y$10$0SHFfoWzz8WZpdu9Qw//E.tWamILbiNCX7bqhy3od0gvK5.kSJ8N2', 1, 'Bionry', 'Developers', '', '', 'favicon.png', 1, '', '', '2018-05-01'),
+(13, 'user@gmail.com', '$2a$10$2uYuY/0dCtsC3lEcso1VVueGnDXpDhpliYVSlzGaq25butOquxSqW', 0, 'Raj', 'Chawan', 'NYC', '3261114555', 'papu.png', 1, '', '', '2023-09-02');
 
 --
 -- Indexes for dumped tables
