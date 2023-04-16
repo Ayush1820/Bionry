@@ -21,12 +21,6 @@
                 <h6 style="margin-left: 70px; font-size:20px; font-weight:bold;">TYBCA</h6>
             </div>
         </div>
-        <div>
-            <h4>Ankit Pande</h4>
-        </div>
-        <div>
-            <h4>Sadik Khan</h4>
-        </div>
     </div>
   
   	<?php include 'includes/footer.php'; ?>
